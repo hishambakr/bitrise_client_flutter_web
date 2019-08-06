@@ -1,5 +1,5 @@
 # bitrise_client_flutter_web
-Sample website shows flutter web usage
+Sample website shows flutter web usage: http://bitrise_d.surge.sh
 
 As I can't share company info, you need to update file: /bitrize_client_web/lib/build_time.dart 
 
